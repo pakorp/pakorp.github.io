@@ -55,6 +55,15 @@ export const personalInfo = {
                 { name: 'Xen Hypervisor', color: 'bg-blue-700 text-white' },
                 { name: 'VirtualBox', color: 'bg-sky-600 text-white' }
             ]
+        },
+        {
+            icon: '⚙️',
+            title: '8D Problem Solving',
+            skills: [
+                { name: 'Root Cause Analysis', color: 'bg-blue-500 text-white' },
+                { name: 'Blameless Postmortem', color: 'bg-orange-600 text-white' },
+                { name: 'Failure Mode and Effects Analysis', color: 'bg-red-600 text-white' },
+            ]
         }
     ],
 
@@ -113,6 +122,7 @@ export const personalInfo = {
             { name: "Go", color: "bg-green-700 text-white" },
             { name: "Python", color: "bg-green-600 text-white" },
             { name: "JavaScript&Node.js", color: "bg-green-500 text-gray-900" },
+            { name: "SvelteKit&Tailwind", color: "bg-green-500 text-gray-900" },
             { name: "Java", color: "bg-green-600 text-white" },
             ]
         },
@@ -140,7 +150,7 @@ export const personalInfo = {
             borderColor: "border-indigo-300/30",
             skills: [
                 { name: "GCP", color: "bg-blue-500 text-white" },
-                { name: "Proxmox VE", color: "bg-orange-600 text-white" },
+                { name: "Proxmox VE9", color: "bg-orange-600 text-white" },
                 { name: "KVM/QEMU", color: "bg-red-600 text-white" },
                 { name: "Xen", color: "bg-blue-700 text-white" },
                 { name: "VirtualBox", color: "bg-sky-600 text-white" }
@@ -159,13 +169,22 @@ export const personalInfo = {
             bgColor: "bg-gradient-to-r from-teal-200 to-teal-500",
             borderColor: "border-rose-300/30",
             skills: [
-                { name: "REST APIs", color: "bg-green-600 text-white" },
+                { name: "RESTful APIs", color: "bg-green-600 text-white" },
                 { name: "OOP", color: "bg-purple-600 text-white" },
                 { name: "IaC", color: "bg-indigo-600 text-white" },
                 { name: "Containerization", color: "bg-cyan-600 text-white" },
-                { name: "HA Systems", color: "bg-red-600 text-white" }
+                { name: "HA Systems", color: "bg-red-600 text-white" },
+                { name: "DRY", color: "bg-indigo-600 text-white" },
             ]
-        }
+        },
+        "Databases & Diagramming Tools": {
+            bgColor: "bg-gradient-to-r from-amber-200 to-yellow-400",
+            borderColor: "border-rose-300/30",
+            skills: [
+                { name: "PostGreSQL", color: "bg-green-600 text-white" },
+                { name: "MermaidJS", color: "bg-purple-600 text-white" },
+            ]
+        },
     },
 
     education: [

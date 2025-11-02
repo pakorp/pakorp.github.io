@@ -30,7 +30,6 @@
 			<!-- Homelab Project Banner -->
             <HomelabProject />
 			<!-- Core Competencies - Prominent Display -->
-            <!-- Core Competencies - Single Column with Highlighted Skills -->
             <!-- Skills Section - 2 Column Layout -->
             <TechnicalSkills />
             <!-- Experience -->

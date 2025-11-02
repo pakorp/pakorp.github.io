@@ -15,7 +15,7 @@
         </div>
         <h2 class="text-4xl font-bold text-white mb-3">🏆 Graduated #1 at kood/Jõhvi</h2>
         <p class="text-xl text-amber-100 mb-2 font-medium">Batch 4 - Full-Stack Developer with DevOps Specialization</p>
-        <p class="text-amber-50">Completed comprehensive training in Go, Node.js, Kubernetes, and cloud technologies, finishing as the top student in my cohort.</p>
+        <p class="text-amber-50">Completed comprehensive training in Go, Node.js, DevOps - IaC and Kubernetes, finishing as the top student of Batch 4.</p>
         <div class="flex flex-wrap gap-2">
           <span class="px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-xs font-bold text-white">Go</span>
           <span class="px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-xs font-bold text-white">NodeJS&JavaScript</span>

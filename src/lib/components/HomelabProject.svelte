@@ -16,7 +16,7 @@
         </div>
         <h2 class="text-4xl font-bold text-white mb-3">🔧 Homelab Infrastructure</h2>
         <p class="text-xl text-cyan-100 mb-2 font-medium">OPNSense Router + Proxmox K3s Cluster</p>
-        <p class="text-cyan-50 mb-4">I structured a homelab featuring best enterprise practices with a separate OPNSense router and a K3s cluster in Proxmox VE9 over 3 nodes integrating GitOps principles for orchestration via Terraform and provisiong via Ansible. Kubernetes cluster uses Helm charts and ArgoCD as the core foundation</p>
+        <p class="text-cyan-50 mb-4">I structured a homelab featuring best enterprise practices with a separate OPNSense router and a K3s cluster in Proxmox VE9 over 3 nodes integrating GitOps principles for orchestration via Terraform and provisioning via Ansible. Kubernetes cluster uses Helm charts and ArgoCD as the core foundation</p>
         <div class="flex flex-wrap gap-2">
           <span class="px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-xs font-bold text-white">OPNSense</span>
           <span class="px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-xs font-bold text-white">Proxmox VE</span>
