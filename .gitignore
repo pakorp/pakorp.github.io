@@ -1,0 +1,43 @@
+test-results
+node_modules
+
+# Build output
+build/
+
+# VSCode workspace settings
+.vscode/
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+.env.local
+.env.*.local
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Paraglide
+src/lib/paraglide
+
+*storybook.log
+storybook-static
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
