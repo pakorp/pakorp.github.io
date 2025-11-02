@@ -20,11 +20,8 @@ const config = {
 		strict: true
 		}),
     paths: {
-      base: process.env.NODE_ENV === 'production'
-        // if deploying to https://username.github.io/repo-name
-        ? '/pakorp.github.io'
-        : ''
-    },
+      base: '' // <--- empty for user/organization sites
+    }
   }
 };
 
