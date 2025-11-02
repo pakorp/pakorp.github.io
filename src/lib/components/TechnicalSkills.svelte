@@ -13,7 +13,7 @@
             <h3 class="text-2xl font-bold text-white mb-6">Core Competencies</h3>
             <div class="flex flex-col gap-6">
                 {#each personalInfo.coreCompetencies as competency}
-                    <div class="bg-gradient-to-br from-white/95 to-white/90 backdrop-blur-sm rounded-2xl p-6 shadow-2xl border border-white/30 hover:shadow-blue-500/20 transition-all duration-300">
+                    <div class="bg-gradient-to-r from-blue-200 to-cyan-100 backdrop-blur-sm rounded-2xl p-6 shadow-2xl border border-white/30 hover:shadow-blue-500/20 transition-all duration-300">
                         <div class="flex items-start gap-3 mb-4">
                             <div class="text-4xl">{competency.icon}</div>
                             <div>

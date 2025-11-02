@@ -112,7 +112,8 @@ export const personalInfo = {
             skills: [
             { name: "Go", color: "bg-green-700 text-white" },
             { name: "Python", color: "bg-green-600 text-white" },
-            { name: "JavaScript/Node.js", color: "bg-green-500 text-gray-900" }
+            { name: "JavaScript&Node.js", color: "bg-green-500 text-gray-900" },
+            { name: "Java", color: "bg-green-600 text-white" },
             ]
         },
         "DevOps & Orchestration": {
@@ -121,7 +122,8 @@ export const personalInfo = {
             skills: [
             { name: "Docker", color: "bg-blue-600 text-white" },
             { name: "Kubernetes", color: "bg-blue-600 text-white" },
-            { name: "Terraform", color: "bg-blue-700 text-white" }
+            { name: "Terraform", color: "bg-blue-700 text-white" },
+            { name: "Ansible", color: "bg-blue-700 text-white" },
             ]
         },
         "CI/CD & Version Control": {
@@ -134,7 +136,7 @@ export const personalInfo = {
             ]
         },
         "Cloud & Virtualization": {
-            bgColor: "bg-indigo-500/20",
+            bgColor: "bg-gradient-to-r from-blue-200 to-cyan-200",
             borderColor: "border-indigo-300/30",
             skills: [
                 { name: "GCP", color: "bg-blue-500 text-white" },
@@ -146,7 +148,7 @@ export const personalInfo = {
         },
         "Operating Systems": {
             bgStyle: "background: linear-gradient(to right, rgba(163, 230, 53, 0.2), rgba(132, 204, 22, 0.3))",
-            bgColor: "bg-gradient-to-r from-slate-500 to-slate-800  ",
+            bgColor: "bg-gradient-to-r from-slate-500 to-slate-800",
             borderColor: "border-lime-300/30",
             skills: [
                 { name: "Linux (Debian, Ubuntu Server)", color: "bg-yellow-500 text-gray-900" },
@@ -154,7 +156,7 @@ export const personalInfo = {
             ]
         },
         "Design Patterns": {
-            bgColor: "bg-rose-500/20",
+            bgColor: "bg-gradient-to-r from-teal-200 to-teal-500",
             borderColor: "border-rose-300/30",
             skills: [
                 { name: "REST APIs", color: "bg-green-600 text-white" },
