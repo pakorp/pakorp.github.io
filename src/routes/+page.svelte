@@ -6,7 +6,7 @@
 		email: "paul.m.korp@gmail.com",
 		phone: "+372 53264707",
 		location: "Tallinn, Estonia",
-		github: "github.com/paulkorp",
+		github: "github.com/pakorp",
 		dob: "15 March 1999"
 	};
 
