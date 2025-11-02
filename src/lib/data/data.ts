@@ -7,7 +7,7 @@ export const personalInfo = {
         phone: "+372 53264707",
         location: "Tallinn, Estonia",
         github: "github.com/pakorp",
-        linkedin: "https://www.linkedin.com/in/paul-korp-6b5709167/",
+        linkedin: "linkedin.com/in/paul-korp-6b5709167/",
         dob: "15 March 1999"
     },
 
