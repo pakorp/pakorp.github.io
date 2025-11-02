@@ -5,7 +5,6 @@ node_modules
 build/
 
 # VSCode workspace settings
-.vscode/
 
 # Output
 .output
