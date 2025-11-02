@@ -169,7 +169,7 @@ export const personalInfo = {
     education: [
         {
             institution: "kood/Jõhvi",
-            degree: "Full-Stack Developer",
+            degree: "Full-Stack Web Developer /w DevOps Specialization",
             location: "Estonia",
             period: "2024 - 2025",
             distinction: "🏆 Graduated Top 1 of Batch 4",
@@ -184,13 +184,13 @@ export const personalInfo = {
             location: "Estonia",
             period: "2018",
             details: [
-                "Completed 2 semesters including CISCO Networking course"
+                "Completed various courses"
             ]
         }
     ],
 
     languages: [
-        { lang: "English", level: "C2 (Proficient)", flag: "🇬🇧" },
+        { lang: "English", level: "C2 (Native)", flag: "🇬🇧" },
         { lang: "Estonian", level: "C2 (Native)", flag: "🇪🇪" },
         { lang: "Russian", level: "B1 (Intermediate)", flag: "🇷🇺" }
     ],
