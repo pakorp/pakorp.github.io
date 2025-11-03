@@ -9,7 +9,7 @@
     <div class="relative max-w-7xl mx-auto px-6 text-center">
         <div class="mb-4">
             <h3 class="text-2xl font-bold text-gray-900 mb-2">{personalInfo.basic.name}</h3>
-            <p class="text-base font-medium text-gray-800">DevOps Engineer & Full-Stack Developer</p>
+            <p class="text-base font-medium text-gray-800">DevOps Enthusiast & Full-Stack Web Developer</p>
         </div>
         
         <div class="border-t border-gray-800/20 pt-6">
