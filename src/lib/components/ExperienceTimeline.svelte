@@ -15,7 +15,7 @@
           {#if index === 0}
             <div class="absolute inset-0 z-0">
               <img 
-                src="/stoneridge.png" 
+                src="/firms/stoneridge.png" 
                 alt="Stoneridge Electronics AS background" 
                 class="w-full h-full object-contain"
               />
@@ -26,7 +26,7 @@
           {#if index === personalInfo.experience.length - 2}
             <div class="absolute inset-0 z-0">
               <img 
-                src="/coop.png" 
+                src="/firms//coop.png" 
                 alt="COOP AS background" 
                 class="w-full h-full object-contain"
               />
@@ -37,7 +37,7 @@
           {#if index === personalInfo.experience.length - 1}
             <div class="absolute inset-0 z-0">
               <img 
-                src="/cannery.webp" 
+                src="/firms/cannery.webp" 
                 alt="CANNERY OÜ background" 
                 class="w-full h-full object-contain"
               />

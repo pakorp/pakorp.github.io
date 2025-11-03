@@ -13,7 +13,7 @@
         {#if index === 0}
           <div class="absolute inset-0 z-0">
             <img 
-              src="/bugnotafeature.jpeg" 
+              src="/education/bugnotafeature.jpeg" 
               alt="kood/Jõhvi background" 
               class="w-full h-full object-cover"
             />
@@ -25,7 +25,7 @@
         {#if index === 1}
           <div class="absolute inset-0 z-0">
             <img 
-              src="/taltech.png"
+              src="/education/taltech.png"
               alt="TalTech background" 
               class="w-full h-full object-cover"
             />
