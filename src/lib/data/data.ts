@@ -267,7 +267,7 @@ export const personalInfo = {
             description: "Comprehensive Web Development course for Golang",
             imageUrl: "/certs/Go Module Certificate.webp",
             pdfUrl: "/certs/Go Module Certificate.pdf",
-            tags: ["Golang", "Docker", "PostgreSQL"],
+            tags: ["Golang", "Go templates", "Docker", "PostgreSQL"],
             // Theme customization
             theme: {
                 gradientFrom: "blue-600",
@@ -284,7 +284,7 @@ export const personalInfo = {
             name: "DevOps Specialization",
             issuer: "kood/Jõhvi",
             date: "2025",
-            description: "Advanced DevOps practices including Kubernetes & Helm charts, Terraform, Ansible, and GitOps workflows",
+            description: "Advanced DevOps practices including ArgoCD, Helm charts, IaC - provisioning and orchestration and GitOps-centric workflows",
             imageUrl: "/certs/DevOps Module Certificate.webp",
             pdfUrl: "/certs/DevOps Module Certificate.pdf",
             tags: ["Kubernetes", "Terraform", "Ansible", "GitOps"],
@@ -303,10 +303,10 @@ export const personalInfo = {
             name: "JavaScript&NodeJS",
             issuer: "kood/Jõhvi",
             date: "2025",
-            description: "Full-stack style training featuring Go/JavaScript, Node.js, React, and modern web technologies",
+            description: "Full-Stack Web Developer Training",
             imageUrl: "/certs/JavaScript Module Certificate.webp",
             pdfUrl: "/certs/JavaScript Module Certificate.pdf",
-            tags: ["Node.js", "React", "Full-Stack"],
+            tags: ["JavaScript&Node.js", "React", "WebSocketIO"],
             theme: {
                 gradientFrom: "yellow-500",
                 gradientVia: "orange-500",
@@ -342,9 +342,9 @@ export const personalInfo = {
     projectsPage: [
         {
             name: "Homelab Infrastructure (WIP)",
-            description: "Enterprise-grade homelab featuring OPNSense router and K3s cluster on Proxmox VE9 across 3 nodes. Implements GitOps principles with Terraform orchestration and Ansible provisioning. Kubernetes cluster uses Helm charts and ArgoCD as foundation.",
+            description: "Enterprise-grade homelab featuring OPNSense router and K3s cluster on Proxmox VE9 across 3 nodes. Implements GitOps principles, orchestration and provisioning. Cluster uses Helm charts and ArgoCD as a foundation.",
             imageUrl: "/projects/homelab-diagram.png",
-            liveUrl: "null",
+            liveUrl: "https://status.vilde.dev/status/general",
             //liveUrl: "https://status.vilde.dev", 
             githubUrl: "null",
             //githubUrl: "https://github.com/pakorp/vilde-homelab",
@@ -362,7 +362,7 @@ export const personalInfo = {
         },
         {
             name: "Portfolio Website",
-            description: "Modern, responsive portfolio built with SvelteKit and TailwindCSS. Features dynamic routing, component-based architecture, and optimized performance with static site generation.",
+            description: "Responsive portfolio. Features dynamic routing, component-based architecture, and optimized performance with static site generation.",
             imageUrl: "/projects/favicon.svg",
             liveUrl: "https://pakorp.github.io",
             githubUrl: "https://github.com/pakorp/pakorp.github.io",
