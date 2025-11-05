@@ -26,7 +26,7 @@ import { personalInfo } from '$lib/data/data';
           >
             <div class="absolute inset-0 bg-blue-400/20 rounded-lg transform translate-x-1 translate-y-1 transition-transform group-hover:translate-x-2 group-hover:translate-y-2"></div>
             <div class="relative px-5 py-2.5 bg-gradient-to-r from-blue-400/30 to-cyan-400/30 backdrop-blur-sm rounded-lg text-white font-semibold shadow-md hover:shadow-lg transition-all border border-blue-300/40 text-center hover:from-blue-400/40 hover:to-cyan-400/40">
-              💻 Home
+              Home
             </div>
           </a>
           <a 
@@ -44,7 +44,7 @@ import { personalInfo } from '$lib/data/data';
           >
             <div class="absolute inset-0 bg-purple-400/20 rounded-lg transform translate-x-1 translate-y-1 transition-transform group-hover:translate-x-2 group-hover:translate-y-2"></div>
             <div class="relative px-5 py-2.5 bg-gradient-to-r from-purple-400/30 to-pink-400/30 backdrop-blur-sm rounded-lg text-white font-semibold shadow-md hover:shadow-lg transition-all border border-purple-300/40 text-center hover:from-purple-400/40 hover:to-pink-400/40">
-              ⌛ Projects
+              Projects
             </div>
           </a>
         </nav>

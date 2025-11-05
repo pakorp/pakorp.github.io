@@ -18,7 +18,7 @@ export const personalInfo = {
         },
         title: "🔧 Homelab Infrastructure",
         subtitle: "OPNSense Router + Proxmox K3s Cluster",
-        description: "Built a production-grade homelab to develop enterprise DevOps skills. Designed and deployed a high-availability K3s cluster across 3 Proxmox nodes with dedicated OPNSense routing. Implemented GitOps workflows using Terraform for infrastructure orchestration, Ansible for automated provisioning, and ArgoCD with Helm charts for application deployment. Achieved automated, version-controlled infrastructure that demonstrates scalable cloud-native architectures.",
+        description: "Built a production-grade homelab to develop enterprise DevOps skills. Designed and deployed a high-availability K3s cluster across 3 Proxmox nodes, BGP peering with WAN point for ingress routes. Implemented GitOps-centric workflows with IaC: orchestration, automated provisioning, and ArgoCD with Helm charts as cluster building blocks. Achieved automated, version-controlled infrastructure that demonstrates an understanding of scalable cloud-native architectures.",
         image: {
             src: "/homelab-diagram.png",
             alt: "Homelab Architecture"
@@ -190,7 +190,7 @@ export const personalInfo = {
             skills: [
                 { name: "GitHub", color: "bg-gray-800 text-white" },
                 { name: "GitHub Actions", color: "bg-blue-600 text-white" },
-                { name: "GitOps Workflows", color: "bg-teal-600 text-white" }
+                { name: "GitLab CI/CD", color: "bg-teal-600 text-white" }
             ]
         },
         "Operating Systems": {
@@ -198,8 +198,8 @@ export const personalInfo = {
             bgColor: "bg-gradient-to-r from-blue-200 to-cyan-200",
             borderColor: "border-lime-300/30",
             skills: [
-                { name: "Linux (Debian, Ubuntu Server)", color: "bg-yellow-500 text-gray-900" },
-                { name: "Windows 7/10", color: "bg-blue-600 text-white" }
+                { name: "Headless Linux (Debian, Ubuntu Server)", color: "bg-yellow-500 text-gray-900" },
+                { name: "Windows", color: "bg-blue-600 text-white" }
             ]
         },
         "Design Patterns": {
