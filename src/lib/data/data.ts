@@ -78,7 +78,7 @@ export const personalInfo = {
         }
     },
 
-    summary : "Versatile and motivated, with years of experience. Passionate about building reliable, scalable systems. Seeking a place where to develop my skills further.",
+    summary : "Versatile and motivated, with years of experience. Passionate about building reliable, scalable systems. Always pushing myself further.",
 
     coreCompetencies: [
         {
