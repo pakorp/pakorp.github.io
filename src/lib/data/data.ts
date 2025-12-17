@@ -127,15 +127,32 @@ export const personalInfo = {
 
     experience: [
         {
+            title: "IT Services Change & Release Specialist (Digital Services)",
+            company: "CARIAD Estonia AS",
+            location: "Estonia",
+            period: "January 2026 - Present",
+            achievements: [
+                "Coordinate change management activities for enterprise automotive infrastructure releases serving thousands of stakeholders",
+                "Moderate Change Advisory Board meetings and change review boards, ensuring cross-functional alignment",
+                "Review and assure quality of change tickets for completeness, compliance, and implementation readiness",
+                "Support major release execution across environments, validating governance and process standards",
+                "Maintain audit-ready documentation with full traceability and version control",
+                "Collaborate with DevOps teams, business units, and external vendors on release planning and deployment"
+            ]
+        },
+        {
             title: "Quality Technician",
             company: "Stoneridge Electronics",
             location: "Estonia",
-            period: "April 2025 - Present",
+            period: "April 2025 - December 2025",
             achievements: [
-                "Document rework cases, analyzing failure modes and root causes with FMEA methodology",
-                "Collect, analyze and share QA metrics (FAN charts, MIS reports) for continuous improvement",
-                "Perform corrective actions to restore products to functional specifications",
-                "Support 8D corrective action development and ERP database management (J1 Edwards Oracle)"
+                "Identified faulty supplier components through Root Cause Analysis, preventing ~€250,000 in potential losses over 16 months",
+                "Proposed process changes based on RCAs that reduced rework cases by ~90% and increased FPQ",
+                "Resolved systemic MES/PLC-related defects via RCA, reducing rework to operator and supplier concerns",
+                "Documented rework cases, analyzing failure modes and root causes with FMEA methodology",
+                "Collected, analyzed and shared QA metrics (FAN charts, MIS reports) for continuous improvement",
+                "Performed corrective actions to restore products to functional specifications",
+                "Supported 8D corrective action development and ERP database management (J1 Edwards Oracle)"
             ]
         },
         {
@@ -145,7 +162,8 @@ export const personalInfo = {
             period: "February 2025 - May 2025",
             achievements: [
                 "Assembled electronics for Renault, Volvo Trucks Wings modules and DAF Chassis modules",
-                "Reported faults and provided detailed troubleshooting information"
+                "Reported faults and provided detailed troubleshooting information",
+                "Resolved assembly operation station issues leading to increased productivity",
             ]
         },
         {

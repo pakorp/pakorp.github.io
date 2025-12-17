@@ -14,7 +14,7 @@
         
         <div class="border-t border-gray-800/20 pt-6">
             <p class="text-sm text-gray-800 mb-2">© 2025 {personalInfo.basic.name} • All Rights Reserved</p>
-            <p class="text-xs text-gray-700">Built with SvelteKit & Tailwind CSS • Seeking DevOps & Operations Engineering opportunities</p>
+            <p class="text-xs text-gray-700">Built with SvelteKit & Tailwind CSS</p>
         </div>
     </div>
 </footer>

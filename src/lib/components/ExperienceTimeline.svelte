@@ -11,8 +11,18 @@
       <div class="relative pl-10 pb-6 border-l-2 border-blue-400/50 last:border-l-0 last:pb-0">
         <div class="absolute left-0 top-0 -translate-x-1/2 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900 shadow-lg shadow-blue-500/50"></div>
         <div class="relative bg-gradient-to-br from-blue-50/90 to-indigo-50/90 backdrop-blur-sm rounded-xl p-7 shadow-xl border border-blue-200/30 hover:shadow-2xl hover:shadow-blue-500/10 transition-all overflow-hidden">
-          <!-- Background image for CANNERY OÜ (last element) -->
           {#if index === 0}
+            <div class="absolute inset-0 z-0">
+              <img 
+                src="/firms/cariad.webp" 
+                alt="CARIAD Estonia AS background" 
+                class="w-full h-full object-contain"
+              />
+              <!-- White overlay to make text readable -->
+              <div class="absolute inset-0 bg-white/80"></div>
+            </div>
+          {/if}
+          {#if index === personalInfo.experience.length - 4}
             <div class="absolute inset-0 z-0">
               <img 
                 src="/firms/stoneridge.png" 
